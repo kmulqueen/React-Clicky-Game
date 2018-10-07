@@ -1,7 +1,13 @@
+@font-face {
+  font-family: bitchesBrew;
+  src: url("../fonts/OPTINovelGothic-XBoldAgen.otf");
+}
+
 .title {
     width: 100%;
     text-align: right;
     font-size: 1.7rem;
+    font-family: bitchesBrew, serif, cursive;
     color: rgb(255, 255, 255);
     margin-bottom: 50px;
   }
